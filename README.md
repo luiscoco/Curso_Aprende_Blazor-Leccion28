@@ -14,7 +14,7 @@
 </div>
 ```
 
-3. Código con el anchor tag <a></a> the HTML
+3. Código con el anchor tag ```<a></a>``` the HTML
 
 ```razor
 <div class="nav-item px-3">
