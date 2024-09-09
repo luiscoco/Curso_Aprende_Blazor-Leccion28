@@ -34,7 +34,7 @@
  </div>
 ```
 
-   Definimos la clase de estilo "nav-active" en el archivo "wwwroot\app.css"
+   Definimos la clase de estilo "nav-active" enlazada a la propiedad ActiveClass, en el archivo "wwwroot\app.css"
 
 ```css
 .nav-active {
