@@ -33,3 +33,13 @@
      </NavLink>
  </div>
 ```
+
+   Definimos la clase de estilo "nav-active" en el archivo "wwwroot\app.css"
+
+```css
+.nav-active {
+    font-weight: bold;
+    color: red !important;
+    text-decoration: underline;
+}
+```
